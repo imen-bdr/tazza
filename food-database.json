@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "name": "Carotte",
+      "type": "légume",
+      "description": "Racine orange riche en bêta-carotène",
+      "nutrition": {
+        "calories": 41,
+        "glucides": "9.6g",
+        "vitamines": ["A", "K1", "B6"]
+      },
+      "preparation": [
+        {
+          "type": "Jus",
+          "method": "1. Laver et éplucher\n2. Passer à l'extracteur\n3. Servir frais",
+          "duration": "10 min"
+        },
+        {
+          "type": "Salade",
+          "method": "1. Râper les carottes\n2. Ajouter citron/huile d'olive\n3. Mélanger",
+          "duration": "15 min"
+        }
+      ],
+      "storage": "Au réfrigérateur jusqu'à 2 semaines",
+      "image": "carotte.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Orange",
+      "type": "fruit",
+      "description": "Agrume juteux riche en vitamine C",
+      "nutrition": {
+        "calories": 47,
+        "glucides": "11.8g",
+        "vitamines": ["C", "B1", "Folates"]
+      },
+      "preparation": [
+        {
+          "type": "Jus",
+          "method": "1. Presser les oranges\n2. Filtrer les pulpes\n3. Servir immédiatement",
+          "duration": "5 min"
+        },
+        {
+          "type": "Salade de fruits",
+          "method": "1. Peler et segmenter\n2. Mélanger avec d'autres fruits\n3. Arroser de miel",
+          "duration": "20 min"
+        }
+      ],
+      "storage": "À température ambiante 1 semaine",
+      "image": "orange.jpg"
+    }
+  ]

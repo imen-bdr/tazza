@@ -1,0 +1,31 @@
+
+[
+    {
+        "id": 1,
+        "name": "Orange",
+        "type": "fruit",
+        "description": "Fresh and juicy oranges.",
+        "price": "$3/kg"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "type": "fruit",
+        "description": "Crisp and sweet apples.",
+        "price": "$2.5/kg"
+    },
+    {
+        "id": 3,
+        "name": "Carrot",
+        "type": "vegetable",
+        "description": "Fresh and crunchy carrots.",
+        "price": "$1.5/kg"
+    },
+    {
+        "id": 4,
+        "name": "Lemon Juice",
+        "type": "juice",
+        "description": "Pure and natural lemon juice.",
+        "price": "$5/bottle"
+    }
+]

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Site Web</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"> <!-- Lien vers le favicon -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Bienvenue sur mon site web !</h1>
+    <p>Ceci est un exemple de page avec un favicon.</p>
+</body>
+</html>
